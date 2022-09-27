@@ -2,18 +2,19 @@
 
 # Project Name
 
-> Description the project.
+> A simple application that allows you to make a List of things to do
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- Webpack
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+Not available
 
 
 ## Getting Started
@@ -26,31 +27,29 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Visual Studio Code
+
 ### Setup
 
-### Install
-
-### Usage
+download or clone this repo by using this [link](https://github.com/d4nQw3rty/toDoList.git)) 
 
 ### Run tests
 
+- run npx eslint .
+- run npx stylelint "**/*.{css,scss}"
+- run npx hint .
+
 ### Deployment
 
-
+npm run server
+see deployment on http://localhost:3000
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤  **Danys Linares**
+- GitHub: [@githubhandle](https://github.com/d4nQw3rty)
+- Twitter: [@twitterhandle](https://twitter.com/Danys_Linares)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/danys-linares-6a328b238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnkyI5IMjTzSg4PVJIZh%2BMw%3D%3D)
 
 ## 🤝 Contributing
 
